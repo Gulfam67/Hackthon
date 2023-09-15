@@ -1,0 +1,117 @@
+
+.title{
+    font-weight: bolder;
+    padding-left: 50px;
+    text-align: center;
+
+
+}
+
+.topnav {
+    background-color:rgba(250, 164, 84, 0.945);
+    overflow: hidden;
+  }
+
+.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.event-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
+
+
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 120px;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(22, 20, 20);
+    font-weight: bold;
+
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+ 
+element.style {
+  border-bottom: 2px solid white;
+  color: white;
+  padding: 1%;
+}
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+user agent stylesheet
+:-webkit-any(article, aside, nav, section) h1 {
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+}
+user agent stylesheet
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.contact{
+  background-color:silver
+}
+
+.clo{
+  background-color:  #333;
+  
+
+}
